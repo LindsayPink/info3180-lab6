@@ -29,6 +29,7 @@ Vue.component('app-footer', {
         <footer>
             <div class="container">
                 <p>Copyright &copy {{ year }} Flask Inc.</p>
+                <p>Powered by News API</p>
             </div>
         </footer>
     `,
